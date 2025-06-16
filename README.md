@@ -51,6 +51,51 @@ It includes  real-world analytical questions and answers, all written using **My
 - Evaluated discount trends and fulfillment timelines
 
 ---
+---
+
+## 📊 Sample Query Outputs
+
+Below are a few examples of results generated from the project:
+
+### 🔹 1. Total Sales by Employee
+
+| LastName  | FirstName | Total_Sales |
+|-----------|-----------|-------------|
+| Peacock   | Margaret  | 9635.76     |
+| Davolio   | Nancy     | 5199.59     |
+| Leverling | Janet     | 4914.34     |
+
+---
+
+### 🔹 2. Top 5 Customers by Revenue
+
+| CustomerName                          | Total_Spent |
+|--------------------------------------|-------------|
+| Ernst Handel                          | 3640.12     |
+| QUICK-Stop                            | 2160.08     |
+| Frankenversand                        | 1965.11     |
+
+---
+
+### 🔹 3. Monthly Sales Trend for 1997
+
+| Month | TotalSales |
+|-------|------------|
+| Jan   | 6221.80    |
+| Feb   | 2089.78    |
+
+---
+
+### 🔹 13. Products Sold Only Once
+
+| ProductID | ProductName                 | No_ofOrder |
+|-----------|-----------------------------|------------|
+| 9         | Mishi Kobe Niku             | 1          |
+| 48        | Chocolade                   | 1          |
+| 67        | Laughing Lumberjack Lager   | 1          |
+
+> 🔎 See full results in [`QUERY OUTPUT.docx`](./QUERY%20OUTPUT.docx)
+
 
 ## 🔗 Author
 
