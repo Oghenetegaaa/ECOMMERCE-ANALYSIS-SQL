@@ -76,14 +76,6 @@ Below are a few examples of results generated from the project:
 
 ---
 
-### 🔹 3. Monthly Sales Trend for 1997
-
-| Month | TotalSales |
-|-------|------------|
-| Jan   | 6221.80    |
-| Feb   | 2089.78    |
-
----
 
 ### 🔹 13. Products Sold Only Once
 
@@ -95,10 +87,12 @@ Below are a few examples of results generated from the project:
 
 > 🔎 See full results in [`QUERY OUTPUT.docx`](./QUERY%20OUTPUT.docx)
 
+---
 
 ## 🔗 Author
 
 **Godsfavour Igburuke**  
 Data Analyst | SQL | Excel | Power BI  
 📧 https://www.linkedin.com/in/godsfavourigburuke/  
+
 
