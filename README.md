@@ -1,7 +1,8 @@
 
 # 🛒 E-Commerce Data Analysis Using SQL
 
-This project contains 15 advanced SQL queries that analyze an e-commerce database to extract business insights on sales, customers, products, employees, and order behaviors.
+This project explores an e-commerce database using **advanced SQL queries** to uncover deep business insights related to sales performance, customer behavior, order patterns, product value, and growth metrics.
+It includes  real-world analytical questions and answers, all written using **MySQL**, and demonstrates the power of SQL for Business Intelligence. 
 
 
 
@@ -55,5 +56,5 @@ This project contains 15 advanced SQL queries that analyze an e-commerce databas
 
 **Godsfavour Igburuke**  
 Data Analyst | SQL | Excel | Power BI  
-📧 [Add email or LinkedIn]  
-🌐 [Add portfolio link]  
+📧 https://www.linkedin.com/in/godsfavourigburuke/  
+
