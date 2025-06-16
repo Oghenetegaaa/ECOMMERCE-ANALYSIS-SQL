@@ -51,7 +51,6 @@ It includes  real-world analytical questions and answers, all written using **My
 - Evaluated discount trends and fulfillment timelines
 
 ---
----
 
 ## 📊 Sample Query Outputs
 
