@@ -1,4 +1,5 @@
-![E-Commerce SQL Analytics Banner](./ecommerceimage.png)
+<img src="./ecommerceimage.png" alt="E-Commerce SQL Banner" width="800"/>
+
 
 
 # 🛒 E-Commerce Data Analysis Using SQL
