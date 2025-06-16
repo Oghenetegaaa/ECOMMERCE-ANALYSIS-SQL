@@ -1,4 +1,4 @@
-<img src="./ecommerceimage.png" alt="E-Commerce SQL Banner" width="800"/>
+<img src="./ecommerceimage.png" alt="E-Commerce SQL Banner" width="400"/>
 
 
 
