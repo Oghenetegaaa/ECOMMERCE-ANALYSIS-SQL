@@ -96,3 +96,6 @@ Data Analyst | SQL | Excel | Power BI
 📧 https://www.linkedin.com/in/godsfavourigburuke/  
 
 
+data-analysis, sql, mysql, ecommerce, ctes, window-functions
+
+
