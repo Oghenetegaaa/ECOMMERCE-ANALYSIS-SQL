@@ -1,3 +1,4 @@
+![E-Commerce SQL Project Banner](./screenshots/banner.png)
 
 # 🛒 E-Commerce Data Analysis Using SQL
 
